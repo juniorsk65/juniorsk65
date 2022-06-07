@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/lucianojr"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- 🔭 I’m currently working on [Synchro](https://www.synchro.com.br/).
+- 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br).
 - ❤️ React Native
 - 💻 Node, ReactJS, React Native, Typescript, Java, Spring Boot.
 - 💬 Ask me about technologies, music, movies and games.
