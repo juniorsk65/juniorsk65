@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br).
 - ❤️ React Native
-- 💻 Node, ReactJS, React Native, Typescript, Java, Spring Boot.
+- 💻 Node, ReactJS, React Native, Typescript, Golang, Spring Boot.
 - 💬 Ask me about technologies, music, movies and games.
 - ⚡ Interested in _Next.js_, _Serverless_ and _Microfrontends_.
 <!--
